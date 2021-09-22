@@ -1,0 +1,17 @@
+.hourMorning{
+    margin-top: 0.7rem;
+    display: flex;
+    align-items: center;
+    justify-content: flex-start;
+    margin-bottom: 1rem;
+   
+}
+.hourEvening{
+    margin-top: 0.7rem;
+    display: flex;
+    align-items: center;
+    justify-content: flex-end;
+    margin-bottom: 1rem;
+
+}
+

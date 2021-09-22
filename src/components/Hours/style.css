@@ -1,0 +1,13 @@
+.containerHours{
+    display: flex;
+    justify-content: center;
+}
+
+.containerHoursMorning{
+    display: flex;
+    flex-direction: column;
+}
+.containerHoursEvening{
+    display: flex;
+    flex-direction: column;
+}
